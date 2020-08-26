@@ -33,6 +33,6 @@
 
 ## Je parle ...
 
-* :france: Français
+* Français
 * Anglais
 * Allemand
