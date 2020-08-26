@@ -1,14 +1,17 @@
 <h1 align="center">Bonjour, je suis Corentin</h1>
 <p align="center">
-  Je suis actuellement en Mastère développement web en apprentissage au sein de [l'ECV Paris](https://www.ecv.fr/) et de l'entreprise [Symédiane](http://www.symediane.com/).
-
+  Je suis actuellement en Mastère développement web en apprentissage au sein de <a href="https://www.ecv.fr/">l'ECV Paris</a> et de l'entreprise <a href="http://www.symediane.com/">Symédiane</a>.
+</p>
+<p align="center">
   Je fais mes études en alternance depuis 3 ans. J'ai choisi de continuer dans cette voie car c’est à mon sens le moyen le plus efficace de se professionnaliser, de développer ses compétences pratiques, d'acquérir un savoir-faire et une expérience concrète !
-
+</p>
+<p align="center">
   Passionné par l'informatique et plus spécifiquement au développement Web, je me forme durant mon temps libre sur des technologies JavaScript car cela me permet aussi bien de faire du développement côté client que du côté serveur.
-
+</p>
+<p align="center">
   <a href="https://www.linkedin.com/in/corentin-noblet/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://codepen.io/c-noblet"><img src="https://img.shields.io/badge/codepen-1e1f26.svg?&style=for-the-badge&logo=codepen&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
+
 
 ## Je travaille actuellement avec...
 
