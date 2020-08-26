@@ -24,7 +24,7 @@
 <img src="https://img.shields.io/badge/Php%20-777BB4.svg?&style=for-the-badge&logo=Php&logoColor=white" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/MySQL%20-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Python%20-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Linux%20-FCC624.svg?&style=for-the-badge&logo=Linux&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Linux%20-111111.svg?&style=for-the-badge&logo=Linux&logoColor=white" />&nbsp;&nbsp;
 
 ## 🌱 J'apprends actuellement ...
 
