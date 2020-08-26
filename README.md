@@ -18,5 +18,5 @@ Passionné par l'informatique et plus spécifiquement au développement Web, je 
 
 ## Liens
 
-* [<img src="https://static.codepen.io/assets/favicon/favicon-aec34940fbc1a6e787974dcd360f2c6b63348d4b1f4e06c77743096d55480f33.ico" alt="" height="25"> Codepen](https://codepen.io/c-noblet)
-* [<img src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" alt="" height="25"> LinkedIn](https://www.linkedin.com/in/corentin-noblet/)
+* [<img src="https://static.codepen.io/assets/favicon/favicon-aec34940fbc1a6e787974dcd360f2c6b63348d4b1f4e06c77743096d55480f33.ico" alt="" height="30">](https://codepen.io/c-noblet)
+* [<img src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" alt="" height="30">](https://www.linkedin.com/in/corentin-noblet/)
