@@ -33,6 +33,6 @@
 
 ## Je parle ...
 
-* <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/241/flag-france_1f1eb-1f1f7.png" height="20"/>&nbsp;Français
+* 🇫🇷 Français
 * Anglais
 * Allemand
