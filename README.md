@@ -33,6 +33,6 @@
 
 ## Je parle ...
 
-* Français
+* <img src="https://image.flaticon.com/icons/svg/3013/3013893.svg" height="20"/>&nbsp;Français
 * Anglais
 * Allemand
