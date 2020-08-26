@@ -10,28 +10,30 @@
   <a href="https://codepen.io/c-noblet"><img src="https://img.shields.io/badge/codepen-1e1f26.svg?&style=for-the-badge&logo=codepen&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-## Je travaille actuellement avec...
+## 👷 Je travaille actuellement avec...
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://img.shields.io/badge/Jquery%20-0769ad.svg?&style=for-the-badge&logo=Jquery&logoColor=white" />&nbsp;&nbsp;
+## 🔧 Les outils que je sais utiliser sont ...
+
 <img src="https://img.shields.io/badge/Vue.js%20-4FC08D.svg?&style=for-the-badge&logo=Vue.js&logoColor=white" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Bootstrap%20-563D7C.svg?&style=for-the-badge&logo=Bootstrap&logoColor=white" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Sass%20-CC6699.svg?&style=for-the-badge&logo=Sass&logoColor=white" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Node.js%20-339933.svg?&style=for-the-badge&logo=Node.js&logoColor=white" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/MongoDB%20-47A248.svg?&style=for-the-badge&logo=MongoDB&logoColor=white" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Linux%20-000000.svg?&style=for-the-badge&logo=Linux&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Php%20-777BB4.svg?&style=for-the-badge&logo=Php&logoColor=white" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/MySQL%20-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Python%20-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Linux%20-FCC624.svg?&style=for-the-badge&logo=Linux&logoColor=white" />&nbsp;&nbsp;
 
-## J'apprends actuellement ...
+## 🌱 J'apprends actuellement ...
 
-
+<img src="https://img.shields.io/badge/Mocha%20-8D6748.svg?&style=for-the-badge&logo=Mocha&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/NativeScript%20-3655FF.svg?&style=for-the-badge&logo=NativeScript&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Mocha%20-8D6748.svg?&style=for-the-badge&logo=Mocha&logoColor=white" />&nbsp;&nbsp;
 
 ## Je parle ...
 
 * Français
 * Anglais
 * Allemand
-
-[<img src="https://static.codepen.io/assets/favicon/favicon-aec34940fbc1a6e787974dcd360f2c6b63348d4b1f4e06c77743096d55480f33.ico" alt="" height="30">](https://codepen.io/c-noblet) [<img src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" alt="" height="30">]()
