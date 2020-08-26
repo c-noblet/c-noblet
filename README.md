@@ -7,7 +7,7 @@ Je fais mes études en alternance depuis 3 ans. J'ai choisi de continuer dans ce
 Passionné par l'informatique et plus spécifiquement au développement Web, je me forme durant mon temps libre sur des technologies JavaScript car cela me permet aussi bien de faire du développement côté client que du côté serveur.
 
 <a href="https://www.linkedin.com/in/corentin-noblet/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://codepen.io/c-noblet"><img src="https://img.shields.io/badge/codepen-%230077B5.svg?&style=for-the-badge&logo=codepen&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://codepen.io/c-noblet"><img src="https://img.shields.io/badge/codepen-%1E1F26.svg?&style=for-the-badge&logo=codepen&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 
