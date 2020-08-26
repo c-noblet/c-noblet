@@ -15,6 +15,18 @@ Passionné par l'informatique et plus spécifiquement au développement Web, je 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+<img src="https://img.shields.io/badge/jquery%20-%230769ad.svg?&style=for-the-badge&logo=jquery&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/vue.js%20-%4FC08D.svg?&style=for-the-badge&logo=vue.js&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/bootstrap%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
+
+<img src="https://img.shields.io/badge/nodejs%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/mongodb%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/linux%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
+
+## J'apprends actuellement ...
+
+
+
 ## Je parle ...
 
 * Français
