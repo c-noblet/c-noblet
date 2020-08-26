@@ -15,13 +15,15 @@ Passionné par l'informatique et plus spécifiquement au développement Web, je 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://img.shields.io/badge/jquery%20-%230769ad.svg?&style=for-the-badge&logo=jquery&logoColor=white" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/vue.js%20-4FC08D.svg?&style=for-the-badge&logo=vue.js&logoColor=white" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/bootstrap%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
-
-<img src="https://img.shields.io/badge/nodejs%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/mongodb%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/linux%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Jquery%20-0769ad.svg?&style=for-the-badge&logo=Jquery&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Vue.js%20-4FC08D.svg?&style=for-the-badge&logo=Vue.js&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Bootstrap%20-563D7C.svg?&style=for-the-badge&logo=Bootstrap&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Sass%20-CC6699.svg?&style=for-the-badge&logo=Linux&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Node.js%20-339933.svg?&style=for-the-badge&logo=Node.js&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/MongoDB%20-47A248.svg?&style=for-the-badge&logo=MongoDB&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Linux%20-000000.svg?&style=for-the-badge&logo=Linux&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/MySQL%20-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Python%20-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white" />&nbsp;&nbsp;
 
 ## J'apprends actuellement ...
 
