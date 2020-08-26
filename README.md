@@ -20,7 +20,7 @@
 <img src="https://img.shields.io/badge/Jquery%20-0769ad.svg?&style=for-the-badge&logo=Jquery&logoColor=white" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Vue.js%20-4FC08D.svg?&style=for-the-badge&logo=Vue.js&logoColor=white" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Bootstrap%20-563D7C.svg?&style=for-the-badge&logo=Bootstrap&logoColor=white" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Sass%20-CC6699.svg?&style=for-the-badge&logo=Linux&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Sass%20-CC6699.svg?&style=for-the-badge&logo=Sass&logoColor=white" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Node.js%20-339933.svg?&style=for-the-badge&logo=Node.js&logoColor=white" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/MongoDB%20-47A248.svg?&style=for-the-badge&logo=MongoDB&logoColor=white" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Linux%20-000000.svg?&style=for-the-badge&logo=Linux&logoColor=white" />&nbsp;&nbsp;
