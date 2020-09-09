@@ -28,7 +28,7 @@
 
 ## 🌱 J'apprends actuellement ...
 
-<img src="https://img.shields.io/badge/Mocha%20-8D6748.svg?&style=for-the-badge&logo=Mocha&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/WordPress%20-21759B.svg?&style=for-the-badge&logo=WordPress&logoColor=white" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/NativeScript%20-3655FF.svg?&style=for-the-badge&logo=NativeScript&logoColor=white" />&nbsp;&nbsp;
 
 ## Je parle ...
