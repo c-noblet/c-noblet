@@ -1,6 +1,6 @@
 <h1 align="center">Bonjour, je suis Corentin</h1>
 
-  Je suis actuellement en Mastère développement web en apprentissage au sein de [l'ECV Paris](https://www.ecv.fr/) et de l'entreprise [Symédiane](http://www.symediane.com/).
+  Je suis actuellement en Mastère développement web en apprentissage au sein de [l'ECV Paris](https://www.ecv.fr/) et de l'entreprise [Symediane](http://www.symediane.com/).
   
   Je fais mes études en alternance depuis 3 ans. J'ai choisi de continuer dans cette voie car c’est à mon sens le moyen le plus efficace de se professionnaliser, de développer ses compétences pratiques, d'acquérir un savoir-faire et une expérience concrète !
 
@@ -17,7 +17,6 @@
 ## 🔧 Les outils que je sais utiliser sont ...
 
 <img src="https://img.shields.io/badge/Vue.js%20-4FC08D.svg?&style=for-the-badge&logo=Vue.js&logoColor=white" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Bootstrap%20-563D7C.svg?&style=for-the-badge&logo=Bootstrap&logoColor=white" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Sass%20-CC6699.svg?&style=for-the-badge&logo=Sass&logoColor=white" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Node.js%20-339933.svg?&style=for-the-badge&logo=Node.js&logoColor=white" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/MongoDB%20-47A248.svg?&style=for-the-badge&logo=MongoDB&logoColor=white" />&nbsp;&nbsp;
