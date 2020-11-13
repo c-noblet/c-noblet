@@ -12,7 +12,7 @@
 
 ## 👷 Je travaille avec ...
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=c-noblet&layout=compact)](https://c-noblet.github.io/portfolio){:target="_blank"}
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=c-noblet&layout=compact)](https://c-noblet.github.io/portfolio)
 
 ## 🔧 Les outils que j'utilise sont ...
 
