@@ -20,14 +20,13 @@
 <img src="https://img.shields.io/badge/Sass%20-CC6699.svg?&style=for-the-badge&logo=Sass&logoColor=white" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Node.js%20-339933.svg?&style=for-the-badge&logo=Node.js&logoColor=white" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/MongoDB%20-47A248.svg?&style=for-the-badge&logo=MongoDB&logoColor=white" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Php%20-777BB4.svg?&style=for-the-badge&logo=Php&logoColor=white" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/MySQL%20-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Python%20-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Linux%20-111111.svg?&style=for-the-badge&logo=Linux&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/WordPress%20-21759B.svg?&style=for-the-badge&logo=WordPress&logoColor=white" />&nbsp;&nbsp;
 
 ## 🌱 J'apprends actuellement ...
 
-<img src="https://img.shields.io/badge/WordPress%20-21759B.svg?&style=for-the-badge&logo=WordPress&logoColor=white" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/NativeScript%20-3655FF.svg?&style=for-the-badge&logo=NativeScript&logoColor=white" />&nbsp;&nbsp;
 
 ## Je parle ...
