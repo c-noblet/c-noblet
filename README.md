@@ -10,27 +10,32 @@
   <a href="https://codepen.io/c-noblet"><img src="https://img.shields.io/badge/codepen-1e1f26.svg?&style=for-the-badge&logo=codepen&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-## 👷 Je travaille avec ...
+## :construction_worker: Je code en ...
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=c-noblet&layout=compact)](https://c-noblet.github.io/portfolio)
 
-## 🔧 Les outils que j'utilise sont ...
+## :wrench: Je préfère travailler avec ...
 
-<img src="https://img.shields.io/badge/Vue.js%20-4FC08D.svg?&style=for-the-badge&logo=Vue.js&logoColor=white" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Sass%20-CC6699.svg?&style=for-the-badge&logo=Sass&logoColor=white" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Node.js%20-339933.svg?&style=for-the-badge&logo=Node.js&logoColor=white" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/MongoDB%20-47A248.svg?&style=for-the-badge&logo=MongoDB&logoColor=white" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/MySQL%20-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Python%20-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Linux%20-111111.svg?&style=for-the-badge&logo=Linux&logoColor=white" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/WordPress%20-21759B.svg?&style=for-the-badge&logo=WordPress&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Vue.js-4FC08D.svg?&style=for-the-badge&logo=Vue.js&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Sass-CC6699.svg?&style=for-the-badge&logo=Sass&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Node.js-339933.svg?&style=for-the-badge&logo=Node.js&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/MongoDB-47A248.svg?&style=for-the-badge&logo=MongoDB&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Linux-111111.svg?&style=for-the-badge&logo=Linux&logoColor=white" />&nbsp;&nbsp;
 
-## 🌱 J'apprends actuellement ...
+## :hammer: Je sais aussi utiliser ...
 
-<img src="https://img.shields.io/badge/NativeScript%20-3655FF.svg?&style=for-the-badge&logo=NativeScript&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/WordPress-21759B.svg?&style=for-the-badge&logo=WordPress&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/NativeScript-3655FF.svg?&style=for-the-badge&logo=NativeScript&logoColor=white" />&nbsp;&nbsp;
 
-## Je parle ...
+## :seedling: J'apprends actuellement ...
 
-* Français
-* Anglais
-* Allemand
+<img src="https://img.shields.io/badge/Electonique-019733.svg?&style=for-the-badge&logo=ghost&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-314254.svg?&style=for-the-badge&logo=c&logoColor=white" />&nbsp;&nbsp;
+
+## :sound: Je parle ...
+
+:fr: Français <br/>
+:uk: Anglais <br/>
+:de: Allemand <br/>
