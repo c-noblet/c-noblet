@@ -10,7 +10,7 @@
   <a href="https://codepen.io/c-noblet"><img src="https://img.shields.io/badge/codepen-1e1f26.svg?&style=for-the-badge&logo=codepen&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-## :construction_worker: Je code en ...
+## :computer: Je code en ...
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=c-noblet&layout=compact)](https://c-noblet.github.io/portfolio)
 
