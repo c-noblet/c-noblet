@@ -12,7 +12,7 @@
 
 ## :computer: Je code en ...
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=c-noblet&layout=compact&show_icons=true&text_color=C9D1D9&bg_color=0D1117&hide_title="true&langs_count=6&exclude_repo=c-noblet.github.io)](https://c-noblet.github.io/portfolio)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=c-noblet&layout=compact&hide_border=true&text_color=C9D1D9&bg_color=0D1117&hide_title="true&langs_count=6&exclude_repo=c-noblet.github.io)](https://c-noblet.github.io/)
 
 ## :wrench: Je préfère travailler avec ...
 
