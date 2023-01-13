@@ -1,6 +1,6 @@
 <h1 align="center">Hi :wave:</h1>
 
-![](https://media-exp1.licdn.com/dms/image/C4E16AQEchVcsxwlxTQ/profile-displaybackgroundimage-shrink_350_1400/0/1661115578911?e=1672272000&v=beta&t=xLeuwoPufN1T_kl43B40u1c6V0LtSxkCWwG7sdklCkk)
+![](https://raw.githubusercontent.com/c-noblet/c-noblet/main/banner.jpg)
 
 I'm a Full Stack Software Engineer currently learning DevOps and working <a href="https://wizards-technologies.com/" target="_blank">@Wizards Technologies</a> 🧙‍♂️
 
