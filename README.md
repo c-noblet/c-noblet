@@ -1,6 +1,6 @@
 <h1 align="center">Hi :wave:</h1>
 
-I'm a Full Stack Software Engineer currently learning DevOps and working <a href="https://wizards-technologies.com/" target="_blank">@Wizards Technologies</a> 🧙‍♂️
+I'm a Full Stack Software Engineer currently working <a href="https://wizards-technologies.com/" target="_blank">@Wizards Technologies</a> 🧙‍♂️
 
 <a href="https://www.linkedin.com/in/corentin-noblet/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
 <a href="https://codepen.io/c-noblet" target="_blank"><img src="https://img.shields.io/badge/codepen-1e1f26.svg?&style=for-the-badge&logo=codepen&logoColor=white" /></a>&nbsp;
